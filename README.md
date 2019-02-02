@@ -9,7 +9,7 @@
 
 
 ### Keyword
-> `Unity3D` 
+> `Unity` 
 
 
 
@@ -19,7 +19,6 @@
 * [Release](#release)
 * [Environment](#environment)
 * [Credit](#credit)
-* [Installation](#installation)
 * [Author](#author)
 * [Screenshots](#screenshots)
 * [Contact](#contact)
@@ -84,7 +83,7 @@ Email:  Key <tavik002@gmail.com>
 ## License
 MIT License
 
-Copyright (c) 2018 key
+Copyright (c) 2019 key
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
