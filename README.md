@@ -16,6 +16,7 @@
 ## Contents 
 <!-- toc -->
 * [Introduction](#introduction)
+* [Release](#release)
 * [Environment](#environment)
 * [Credit](#credit)
 * [Installation](#installation)
@@ -31,6 +32,10 @@
 
 
 Simular to Flappybird. Click your mouse to hop. See how far you can go.
+
+
+## Release
+- [Release Page](https://github.com/tavik000/KappyBird/releases/tag/v1.0.3)
 
 
 ## Environment
