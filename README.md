@@ -1,6 +1,6 @@
 <p align="center">
   <h1 align="center">Kappy Bird</h1>
-  <p align="center">PC / Mac Game of a Unity Project</p>
+  <p align="center">PC / Mac Game of an Unity Project</p>
 </p> 
 
 
